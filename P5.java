@@ -1,7 +1,7 @@
 /* Huyen Tran
 * Nim Game
 * 5/2/2022
-* I have neither given nor received unauthorized aid on this program
+* A simple Nim game between computer and user
 */
 import java.util.Scanner;
 import java.util.*;
